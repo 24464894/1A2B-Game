@@ -106,6 +106,7 @@ namespace _1A2B
                 }
                 A = 0;
                 B = 0;
+                //
             } while (true);
         }
     }
